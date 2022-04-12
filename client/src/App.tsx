@@ -1,9 +1,10 @@
 import React from 'react';
+import NavBar from './components/NavBar/NavBar'
 
 function App() {
   return (
     <>
-      <h1>NavBar</h1>
+      <NavBar />
       <h2>Main Body</h2>
       <h1>Bottom NavBar</h1>
     </>
